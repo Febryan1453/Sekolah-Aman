@@ -1,0 +1,12 @@
+{
+    "name": "mutasipanel/mutasi",
+    "description": "Library mutasipanel",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MutasiPanel\\Mutasi\\": "src/"
+        }
+    },
+}
